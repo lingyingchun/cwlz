@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mosowe-swiper": "/components/mosowe-swiper/mosowe-swiper"
+  }
+}

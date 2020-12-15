@@ -1,0 +1,82 @@
+
+.top-title{
+		height: 273px;
+}
+.touxiang{
+}
+.touxiang-img{
+		width: 77px;
+		height:80px;
+		margin: 50px 50px 0px 125px;
+		-webkit-border-radius:30px;
+		        border-radius:30px;
+}
+.name{
+		margin: 2px 50px 0px 125px;
+		color: #E6E6E6;
+		font-size: 13px;
+		font-family: Georgia;
+}
+.caidan{
+		 display: -webkit-box;
+		 display: -webkit-flex;
+		 display: flex;
+		 margin: 10px 50px 0px 60px;
+  		 color: #E6E6E6;
+ 		 font-size: 13px;
+		 font-family: Georgia;
+		 height: 25px;
+		 width: 250px;
+}
+.caidan-detal{
+		padding-right: 20px;
+}
+.caidan-contant{
+		margin: 2px 10px 0px 40px;
+		color: #E6E6E6;
+		font-size: 13px;
+		font-family: Georgia;
+}
+.caidan-edit{
+		width: 60px;
+		height: 20px;
+		border: 1px solid #E6E6E6;
+		-webkit-border-radius:25px;
+		        border-radius:25px;
+		color: #E6E6E6;
+		float: right;
+		font-size: 13px;
+}
+.caidan-edit-detal{
+		padding: 2px 0 0 4px;
+}
+.titile-content{
+		background-color: #FAFAFA;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		font-size: 15px;
+		font-family: Georgia;
+		color: #00AA00;
+		margin: 25px 0 0 0;
+		height:40px;
+		-webkit-border-radius: 20px 20px 0 0;
+		        border-radius: 20px 20px 0 0;
+}
+.titile-content-detal{
+			margin: 1px 2px 3px 11px;
+			padding: 10px 0 0 47px;
+			height:40px ;
+			line-height: 45px;
+			font-weight:bold;
+}
+.show-images{
+			background-color: #FAFAFA;
+}
+.show-images-detal{
+			margin: 0px 0px 10px 22px;
+			float: left; 
+			-webkit-border-radius: 20rpx; 
+			        border-radius: 20rpx;
+}
+
